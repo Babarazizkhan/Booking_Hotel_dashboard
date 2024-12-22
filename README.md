@@ -13,6 +13,6 @@ growth opportunities and areas for improvement.
 # Tools Used:
             Power BI: For creating dynamic and interactive dashboards.
             Excel: For data cleaning and preparation.
-Conclusion
+# Conclusion
 This dashboard demonstrates my ability to analyze large datasets and present actionable insights through interactive visualizations. It serves as a powerful tool for hotel 
- managers to improve profitability and enhance operational performance.
+managers to improve profitability and enhance operational performance.
